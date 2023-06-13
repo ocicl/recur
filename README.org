@@ -1,0 +1,10 @@
+* recur
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/recur.git   |
+| commit  | ac5fd11  |
+| systems | recur |
+|---------+-------------------------------------------|
+
